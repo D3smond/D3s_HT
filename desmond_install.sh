@@ -46,7 +46,7 @@ pip install twilio
 pip install argcomplete
 pip -v install pycurl --upgrade
 pip install paramiko
-wget https://www.dropbox.com/s/gje56ma6jocc3l0/pxssh.py
+#wget https://www.dropbox.com/s/gje56ma6jocc3l0/pxssh.py
 #wget https://www.dropbox.com/s/74oyw83rggqfdet/des_ht.py
 
 python des_ht.py --help
