@@ -32,7 +32,7 @@ sudo chmod +x desmond_install.sh
 
 ![Alt Text](https://github.com/D3smond/D3s_HT/blob/master/pics%20des_ht/dep.PNG)
 
-#Busca Shodan & Bruteforce
+# Busca Shodan & Bruteforce
 
 + escolhendo a opção 2 e entre com a Apikey e chave de busca:
 * ex keys: SSH-2.0-OpenSSH_5.3
@@ -49,8 +49,9 @@ sudo chmod +x desmond_install.sh
 + pode se opitar por hydra com 'h' ou 'd' para ultilização do pakamiko.
 ![Alt Text](https://github.com/D3smond/D3s_HT/blob/master/pics%20des_ht/des_ht3.PNG)
 
-#Resultados 
+# Resultados 
 
+* seja feliz com o server!
 ![Alt Text](https://github.com/D3smond/D3s_HT/blob/master/pics%20des_ht/re.PNG)
 
 '-'
