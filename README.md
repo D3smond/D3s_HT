@@ -2,7 +2,7 @@
 [*] A simple search tool and brute force on servers through APIs.
 
 
-# DEV
+# Dev details
 [*] programador: D3smond M1les
 
 [*] Telegram: @desmondelite
@@ -12,6 +12,7 @@
 [*] ferramenta simples que consulta ips via api e trabalha junto, ao hydra e brutespray.
 [+] support linux and windows bash ubuntu
 [+] supported service: ssh
+[*] version: 0.0.1
 
 ![Alt Text](https://github.com/D3smond/D3s_HT/blob/master/pics%20des_ht/des.jpg)
 
