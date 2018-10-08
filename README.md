@@ -38,7 +38,7 @@ sudo chmod +x desmond_install.sh
 
 # Busca Shodan & Bruteforce
 
-+ Escolhendo a opção 2 e entre com a Apikey e chave de busca:
++ Escolha a opção 2 e entre com a Apikey e chave de busca:
 * Ex keys: SSH-2.0-OpenSSH_5.3
 * Ex keys: SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu2.1
 * Especificação port: 22 ou 2222 service ssh
